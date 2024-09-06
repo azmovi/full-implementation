@@ -1,0 +1,6 @@
+[submodule "irc-server"]
+	path = irc-server
+	url = git@github.com:azmovi/irc-server
+[submodule "tcp-implementation"]
+	path = tcp-implementation
+	url = git@github.com:azmovi/tcp-implementation
