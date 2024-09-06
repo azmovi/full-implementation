@@ -7,6 +7,7 @@ import termios
 import asyncio
 import traceback
 from collections import defaultdict
+#  xpto
 
 
 class ZyboSerialDriver:
