@@ -4,3 +4,9 @@
 [submodule "tcp-implementation"]
 	path = tcp-implementation
 	url = git@github.com:azmovi/tcp-implementation
+[submodule "ip-implementation"]
+	path = ip-implementation
+	url = git@github.com:azmovi/ip-implementation
+[submodule "link-implementation"]
+	path = link-implementation
+	url = git@github.com:azmovi/link-implementation
